@@ -13,7 +13,6 @@ to curate ideas for different purpose of using chatGPT well
 - to correct grammar mistake
 - to do text adventures(OrphanPounder)
 
-, so that is something you could add to your 'awesome list' if you are into that kind of thing. Just in case you are interested, the prompt I use is:
 
 # Prompts examples
 ## to do text adventures(OrphanPounder)
